@@ -53,6 +53,7 @@ export default function RootLayout({
       return;
     }
   }, [pathname]);
+  
   useEffect(() => {
 
     
